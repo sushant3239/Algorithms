@@ -1,0 +1,6 @@
+D:\Data\Algorithms\Algorithms\Stairecase\bin\Debug\Stairecase.exe.config
+D:\Data\Algorithms\Algorithms\Stairecase\bin\Debug\Stairecase.exe
+D:\Data\Algorithms\Algorithms\Stairecase\bin\Debug\Stairecase.pdb
+D:\Data\Algorithms\Algorithms\Stairecase\obj\Debug\Stairecase.csprojResolveAssemblyReference.cache
+D:\Data\Algorithms\Algorithms\Stairecase\obj\Debug\Stairecase.exe
+D:\Data\Algorithms\Algorithms\Stairecase\obj\Debug\Stairecase.pdb

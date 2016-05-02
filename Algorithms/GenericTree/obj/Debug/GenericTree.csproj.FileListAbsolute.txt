@@ -1,0 +1,6 @@
+D:\Data\Algorithms\Algorithms\GenericTree\bin\Debug\GenericTree.exe.config
+D:\Data\Algorithms\Algorithms\GenericTree\bin\Debug\GenericTree.exe
+D:\Data\Algorithms\Algorithms\GenericTree\bin\Debug\GenericTree.pdb
+D:\Data\Algorithms\Algorithms\GenericTree\obj\Debug\GenericTree.csprojResolveAssemblyReference.cache
+D:\Data\Algorithms\Algorithms\GenericTree\obj\Debug\GenericTree.exe
+D:\Data\Algorithms\Algorithms\GenericTree\obj\Debug\GenericTree.pdb

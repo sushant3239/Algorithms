@@ -1,0 +1,6 @@
+D:\Data\Algorithms\Algorithms\SimpleArraySum\bin\Debug\SimpleArraySum.exe.config
+D:\Data\Algorithms\Algorithms\SimpleArraySum\bin\Debug\SimpleArraySum.exe
+D:\Data\Algorithms\Algorithms\SimpleArraySum\bin\Debug\SimpleArraySum.pdb
+D:\Data\Algorithms\Algorithms\SimpleArraySum\obj\Debug\SimpleArraySum.csprojResolveAssemblyReference.cache
+D:\Data\Algorithms\Algorithms\SimpleArraySum\obj\Debug\SimpleArraySum.exe
+D:\Data\Algorithms\Algorithms\SimpleArraySum\obj\Debug\SimpleArraySum.pdb

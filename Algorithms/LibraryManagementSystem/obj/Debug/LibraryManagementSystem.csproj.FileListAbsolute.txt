@@ -1,0 +1,6 @@
+D:\Data\Algorithms\Algorithms\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Data\Algorithms\Algorithms\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Data\Algorithms\Algorithms\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Data\Algorithms\Algorithms\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+D:\Data\Algorithms\Algorithms\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Data\Algorithms\Algorithms\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

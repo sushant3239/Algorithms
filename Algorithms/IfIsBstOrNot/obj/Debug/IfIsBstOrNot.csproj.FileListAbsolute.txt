@@ -1,0 +1,6 @@
+D:\Data\Algorithms\Algorithms\IfIsBstOrNot\bin\Debug\IfIsBstOrNot.exe.config
+D:\Data\Algorithms\Algorithms\IfIsBstOrNot\bin\Debug\IfIsBstOrNot.exe
+D:\Data\Algorithms\Algorithms\IfIsBstOrNot\bin\Debug\IfIsBstOrNot.pdb
+D:\Data\Algorithms\Algorithms\IfIsBstOrNot\obj\Debug\IfIsBstOrNot.csprojResolveAssemblyReference.cache
+D:\Data\Algorithms\Algorithms\IfIsBstOrNot\obj\Debug\IfIsBstOrNot.exe
+D:\Data\Algorithms\Algorithms\IfIsBstOrNot\obj\Debug\IfIsBstOrNot.pdb

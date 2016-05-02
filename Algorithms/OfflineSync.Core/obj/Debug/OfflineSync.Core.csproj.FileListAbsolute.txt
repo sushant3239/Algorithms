@@ -1,0 +1,11 @@
+D:\Data\Algorithms\Algorithms\OfflineSync.Core\bin\Debug\OfflineSync.Core.dll
+D:\Data\Algorithms\Algorithms\OfflineSync.Core\bin\Debug\OfflineSync.Core.pdb
+D:\Data\Algorithms\Algorithms\OfflineSync.Core\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+D:\Data\Algorithms\Algorithms\OfflineSync.Core\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+D:\Data\Algorithms\Algorithms\OfflineSync.Core\bin\Debug\Newtonsoft.Json.dll
+D:\Data\Algorithms\Algorithms\OfflineSync.Core\bin\Debug\SQLite.Net.dll
+D:\Data\Algorithms\Algorithms\OfflineSync.Core\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+D:\Data\Algorithms\Algorithms\OfflineSync.Core\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+D:\Data\Algorithms\Algorithms\OfflineSync.Core\bin\Debug\Newtonsoft.Json.xml
+D:\Data\Algorithms\Algorithms\OfflineSync.Core\obj\Debug\OfflineSync.Core.dll
+D:\Data\Algorithms\Algorithms\OfflineSync.Core\obj\Debug\OfflineSync.Core.pdb

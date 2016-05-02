@@ -1,0 +1,6 @@
+D:\Data\Algorithms\Algorithms\SherlockAndArray\bin\Debug\SherlockAndArray.exe.config
+D:\Data\Algorithms\Algorithms\SherlockAndArray\bin\Debug\SherlockAndArray.exe
+D:\Data\Algorithms\Algorithms\SherlockAndArray\bin\Debug\SherlockAndArray.pdb
+D:\Data\Algorithms\Algorithms\SherlockAndArray\obj\Debug\SherlockAndArray.csprojResolveAssemblyReference.cache
+D:\Data\Algorithms\Algorithms\SherlockAndArray\obj\Debug\SherlockAndArray.exe
+D:\Data\Algorithms\Algorithms\SherlockAndArray\obj\Debug\SherlockAndArray.pdb

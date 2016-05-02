@@ -1,0 +1,6 @@
+D:\Data\Algorithms\Algorithms\DynamicArray\bin\Debug\DynamicArray.exe.config
+D:\Data\Algorithms\Algorithms\DynamicArray\bin\Debug\DynamicArray.exe
+D:\Data\Algorithms\Algorithms\DynamicArray\bin\Debug\DynamicArray.pdb
+D:\Data\Algorithms\Algorithms\DynamicArray\obj\Debug\DynamicArray.csprojResolveAssemblyReference.cache
+D:\Data\Algorithms\Algorithms\DynamicArray\obj\Debug\DynamicArray.exe
+D:\Data\Algorithms\Algorithms\DynamicArray\obj\Debug\DynamicArray.pdb

@@ -1,0 +1,6 @@
+D:\Data\Algorithms\Algorithms\TreeDataStructure\bin\Debug\TreeDataStructure.exe.config
+D:\Data\Algorithms\Algorithms\TreeDataStructure\bin\Debug\TreeDataStructure.exe
+D:\Data\Algorithms\Algorithms\TreeDataStructure\bin\Debug\TreeDataStructure.pdb
+D:\Data\Algorithms\Algorithms\TreeDataStructure\obj\Debug\TreeDataStructure.csprojResolveAssemblyReference.cache
+D:\Data\Algorithms\Algorithms\TreeDataStructure\obj\Debug\TreeDataStructure.exe
+D:\Data\Algorithms\Algorithms\TreeDataStructure\obj\Debug\TreeDataStructure.pdb

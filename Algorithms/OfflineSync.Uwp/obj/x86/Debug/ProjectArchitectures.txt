@@ -1,0 +1,2 @@
+D:\Data\Algorithms\Algorithms\OfflineSync.Core\OfflineSync.Core.csproj;neutral
+D:\Data\Algorithms\Algorithms\OfflineSync.Uwp\OfflineSync.Uwp.csproj;x86

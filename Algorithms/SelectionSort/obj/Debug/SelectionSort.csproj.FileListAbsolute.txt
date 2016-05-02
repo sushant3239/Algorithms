@@ -1,0 +1,5 @@
+D:\Data\Algorithms\Algorithms\SelectionSort\bin\Debug\SelectionSort.exe.config
+D:\Data\Algorithms\Algorithms\SelectionSort\bin\Debug\SelectionSort.exe
+D:\Data\Algorithms\Algorithms\SelectionSort\bin\Debug\SelectionSort.pdb
+D:\Data\Algorithms\Algorithms\SelectionSort\obj\Debug\SelectionSort.exe
+D:\Data\Algorithms\Algorithms\SelectionSort\obj\Debug\SelectionSort.pdb

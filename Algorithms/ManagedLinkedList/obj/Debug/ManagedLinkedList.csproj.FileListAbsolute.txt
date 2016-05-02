@@ -1,0 +1,6 @@
+D:\Data\Algorithms\Algorithms\ManagedLinkedList\bin\Debug\ManagedLinkedList.exe.config
+D:\Data\Algorithms\Algorithms\ManagedLinkedList\bin\Debug\ManagedLinkedList.exe
+D:\Data\Algorithms\Algorithms\ManagedLinkedList\bin\Debug\ManagedLinkedList.pdb
+D:\Data\Algorithms\Algorithms\ManagedLinkedList\obj\Debug\ManagedLinkedList.exe
+D:\Data\Algorithms\Algorithms\ManagedLinkedList\obj\Debug\ManagedLinkedList.pdb
+D:\Data\Algorithms\Algorithms\ManagedLinkedList\obj\Debug\ManagedLinkedList.csprojResolveAssemblyReference.cache

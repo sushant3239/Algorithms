@@ -1,0 +1,5 @@
+D:\Data\Algorithms\Algorithms\AngryProfessor\bin\Debug\AngryProfessor.exe.config
+D:\Data\Algorithms\Algorithms\AngryProfessor\bin\Debug\AngryProfessor.exe
+D:\Data\Algorithms\Algorithms\AngryProfessor\bin\Debug\AngryProfessor.pdb
+D:\Data\Algorithms\Algorithms\AngryProfessor\obj\Debug\AngryProfessor.exe
+D:\Data\Algorithms\Algorithms\AngryProfessor\obj\Debug\AngryProfessor.pdb

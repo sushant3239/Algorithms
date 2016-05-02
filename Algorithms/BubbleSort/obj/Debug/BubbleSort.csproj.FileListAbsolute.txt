@@ -1,0 +1,5 @@
+D:\Data\Algorithms\Algorithms\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\Data\Algorithms\Algorithms\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Data\Algorithms\Algorithms\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Data\Algorithms\Algorithms\BubbleSort\obj\Debug\BubbleSort.exe
+D:\Data\Algorithms\Algorithms\BubbleSort\obj\Debug\BubbleSort.pdb
