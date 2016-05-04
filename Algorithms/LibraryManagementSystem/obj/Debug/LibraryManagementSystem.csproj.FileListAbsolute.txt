@@ -4,3 +4,6 @@ D:\Data\Algorithms\Algorithms\LibraryManagementSystem\bin\Debug\LibraryManagemen
 D:\Data\Algorithms\Algorithms\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
 D:\Data\Algorithms\Algorithms\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
 D:\Data\Algorithms\Algorithms\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\Data\Windows10\Algorithms\Algorithms\Algorithms\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Data\Windows10\Algorithms\Algorithms\Algorithms\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Data\Windows10\Algorithms\Algorithms\Algorithms\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

@@ -1,0 +1,6 @@
+D:\Data\Windows10\Algorithms\Algorithms\Algorithms\Dijkstra_ShortestPath\bin\Debug\Dijkstra_ShortestPath.exe.config
+D:\Data\Windows10\Algorithms\Algorithms\Algorithms\Dijkstra_ShortestPath\bin\Debug\Dijkstra_ShortestPath.exe
+D:\Data\Windows10\Algorithms\Algorithms\Algorithms\Dijkstra_ShortestPath\bin\Debug\Dijkstra_ShortestPath.pdb
+D:\Data\Windows10\Algorithms\Algorithms\Algorithms\Dijkstra_ShortestPath\obj\Debug\Dijkstra_ShortestPath.csprojResolveAssemblyReference.cache
+D:\Data\Windows10\Algorithms\Algorithms\Algorithms\Dijkstra_ShortestPath\obj\Debug\Dijkstra_ShortestPath.exe
+D:\Data\Windows10\Algorithms\Algorithms\Algorithms\Dijkstra_ShortestPath\obj\Debug\Dijkstra_ShortestPath.pdb
